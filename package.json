@@ -1,7 +1,7 @@
 {
     "name": "vpunch-local",
     "files": {
-        "lua/packages/vpunch-local/package.moon": "https://raw.githubusercontent.com/toxidroma/vpunch-local/main/lua/packages/vpunch-local/package.moon",
-        "lua/packages/vpunch-local/init.moon": "https://raw.githubusercontent.com/toxidroma/vpunch-local/main/lua/packages/vpunch-local/init.moon"
+        "lua/packages/vpunch-local/package.lua": "https://raw.githubusercontent.com/toxidroma/vpunch-local/main/lua/packages/vpunch-local/package.lua",
+        "lua/packages/vpunch-local/init.lua": "https://raw.githubusercontent.com/toxidroma/vpunch-local/main/lua/packages/vpunch-local/init.lua"
     }
 }
