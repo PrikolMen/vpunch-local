@@ -1,6 +1,7 @@
 export *
 name    = 'vpunch-local'
-main    = 'init.lua'
+init    =
+    client: 'init.moon'
+    server: 'init.moon'
 version = 000100
 autorun = true
-server  = false
